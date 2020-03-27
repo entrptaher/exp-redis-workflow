@@ -9,4 +9,9 @@ yarn start
 ```
 
 # Workflow
+
+## Birds eye view:
 ![Imgur](https://i.imgur.com/R4rChEU.png)
+
+## A deep drive of the listeners:
+![](https://i.imgur.com/lYnWHmP.png)
